@@ -100,7 +100,7 @@ function App() {
         </motion.p>
         <div className="flex gap-5 flex-wrap justify-center">
        <a
-  href="/resume_v2.pdf"
+  href="/fullresume.pdf"
   target="_blank"
   rel="noreferrer"
   className="bg-black dark:bg-white dark:text-black text-white hover:opacity-80 px-8 py-3 rounded-lg font-semibold shadow-md transition-all duration-300"
